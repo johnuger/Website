@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  //border-top: 1px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -118,7 +118,7 @@
 .contact-list,
 .social-media-list {
   list-style: none;
-  margin-left: 0;
+  margin-left: 2;
 }
 
 .footer-col-wrapper {

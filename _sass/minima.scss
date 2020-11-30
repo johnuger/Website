@@ -10,18 +10,18 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       rgb(248, 239, 239) !default;
-$background-color: #1f1d1d !default;
+$text-color:       rgb(19, 18, 18) !default;
+$background-color: #f0eaea !default;
 $brand-color:      #2a7ae2 !default;
 
-$grey-color:       #ffffff !default;
+$grey-color:       #131111 !default;
 $grey-color-light: $grey-color !default;
 $grey-color-dark: $grey-color !default;
 
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    75vw !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
