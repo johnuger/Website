@@ -29,3 +29,28 @@ Fishing
 Hiking 
 
 Cooking 
+
+## Favorite Foods:
+
+Korean, American, and Brazilian BBQ
+
+Pizza
+
+Sichuan style chinese food
+
+Peking Duck
+
+Macarons
+
+## Places I've Traveled
+
+France
+
+Switzerland
+
+China
+
+Yellowstone National Park
+
+Pictured Rocks National Park
+
