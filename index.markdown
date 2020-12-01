@@ -10,11 +10,9 @@ permalink: /
 
 ---
 
-
-
 ## Adam Mao is:
 
-<img src="../images/ProfilePic.jpg" title= "Adam Mao Profile Picture" alt="Adam Mao Headshot" width="450" height="auto">
+<img src="../images/ProfilePic.jpg" title= "Profile Picture" alt="Profile Headshot" width="700vw" height="auto">
 
 A current student at Grinnell College 
 
