@@ -12,6 +12,8 @@ permalink: /traveling/
 
 <img src="../images/Waterfall.jpg" title= "Waterfall" alt="Waterfall Picture" width="700vw" height="auto">
 
+<img src="../images/Fog.jpg" title= "Fog" alt="Fog Picture" width="700vw" height="auto">
+
 ## Trip to France
 
 <img src="../images/Clock.jpg" title= "Clock" alt="Clock Picture" width="700vw" height="auto">
@@ -19,8 +21,6 @@ permalink: /traveling/
 <img src="../images/Countryside.jpg" title= "Countryside" alt="Countryside Picture" width="700vw" height="auto">
 
 <img src="../images/Flood.jpg" title= "Flood" alt="Flood Picture" width="700vw" height="auto">
-
-<img src="../images/Fog.jpg" title= "Fog" alt="Fog Picture" width="700vw" height="auto">
 
 <img src="../images/Tables.jpg" title= "Tables" alt="Tables Picture" width="700vw" height="auto">
 
