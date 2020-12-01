@@ -29,3 +29,12 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+group :production do
+  gem 'pg', '1.2.3'
+  end
+
+  group :development, :test do
+    gem 'sqlite3', '1.4.2'
+    gem 'byebug', '11.1.3', platforms: [:mri, :mingw, :x64_mingw]
+    end
+      
